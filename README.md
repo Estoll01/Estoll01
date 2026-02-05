@@ -10,7 +10,7 @@
 ### 🚀 Coding Projects (C# / Visual Studio):
 - [Comprehensive Insurance Policy Calculator](https://github.com/Estoll01/Insurance-Policy-Calculator) - A GUI app for risk-based premium estimation.
 - [Catering Contract Calculator](https://github.com/Estoll01/Catering-Contract-Calculator) - GUI application for dynamic pricing logic.
-- [Movie & Video Game Manager](link-to-your-repo) - Inventory system using OOP principles.
+- [Movie & Video Game Manager](https://github.com/Estoll01/Movie-Video-Game-Inventory-Manager/tree/main) - Inventory system using OOP principles.
 - [Finish Line Renovations Quote Calculator](https://github.com/Estoll01/Finish-Line-Renovations-Quote-Calculator/tree/main) - An interactive quote generator featuring dynamic discounting and labor cost logic.
 
 ---
