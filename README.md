@@ -11,7 +11,7 @@
 - [Comprehensive Insurance Policy Calculator](link-to-your-repo) - A GUI app for risk-based premium estimation.
 - [Catering Contract Calculator](link-to-your-repo) - GUI application for dynamic pricing logic.
 - [Movie & Video Game Manager](link-to-your-repo) - Inventory system using OOP principles.
-- [Finish Line Renovations Quote Calculator](link-to-your-repo) - An interactive quote generator featuring dynamic discounting and labor cost logic.
+- [Finish Line Renovations Quote Calculator](https://github.com/Estoll01/Finish-Line-Renovations-Quote-Calculator/tree/main) - An interactive quote generator featuring dynamic discounting and labor cost logic.
 
 ---
 
