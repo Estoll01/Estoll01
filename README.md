@@ -21,7 +21,7 @@
 ---
 
 ### 📫 Connect with me:
-- [LinkedIn]((http://linkedin.com/in/ethan-tolliver))
+- [LinkedIn](http://linkedin.com/in/ethan-tolliver)
 - [Email](mailto:ethan.tolliver0005@gmail.com)
 <!--
 **Estoll01/Estoll01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
